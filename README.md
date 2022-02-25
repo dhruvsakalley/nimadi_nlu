@@ -1,4 +1,4 @@
-# Nimadi Natural Language Understanding
+# Nimadi Natural Language Understanding  (निमाड़ी) 
 This space is dedicated towards understanding my mother tongue Nimadi better.
 
 ## Project Objective
@@ -17,6 +17,8 @@ This effort is focussed on bringing together Nimadi language experts to help imp
 #### Basics 
 
 - Alphabets
+  https://omniglot.com/writing/nimadi.htm
+  
 - Scripts
 - Fonts
 

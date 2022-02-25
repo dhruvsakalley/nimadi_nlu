@@ -24,7 +24,7 @@ This effort is focussed on bringing together Nimadi language experts to help imp
 
 #### Learning Resources
 
-- Langugae Tutorials
+- Language Tutorials
 - Translation Resources
 
 #### Collaborations
